@@ -1,2 +1,4 @@
 # Mon Projet de Test
 Cette ligne a été ajoutée dans le deuxième commit
+## Description du projet
+Ce projet teste le workflow Git avec multiples commits.
